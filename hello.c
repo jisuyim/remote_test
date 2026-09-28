@@ -4,6 +4,7 @@ int main(){
 	printf("hello\n");
 	printf("hello\n");
 	printf("hello\n");
+	printf("---------------------------");
 
 	return 0;
 }
